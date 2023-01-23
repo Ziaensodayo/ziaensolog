@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: http://ziaensodayo.github.io/ziaensolog
 languageCode: ja
 theme: hugo-theme-stack
 paginate: 5
